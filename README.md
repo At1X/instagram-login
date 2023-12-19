@@ -12,7 +12,9 @@ Currently, two official plugins are available:
 #Usage
 
 1- git clone https://github.com/At1X/instagram-login
+
 2- cd instagram-login
+
 3- sudo python3 run.py
 
 The site will be up on port 4173
