@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 
-#Usage
+# Usage
 
 1- git clone https://github.com/At1X/instagram-login
 
